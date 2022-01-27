@@ -1,5 +1,5 @@
 module.exports = {
   User: require('./User.js'),
-  Song: require('./Song.js')
+  Actual: require('./.js'),
+  Goal: require('./Song.js')
 }
-

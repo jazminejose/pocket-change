@@ -10,35 +10,35 @@ const ExpenseForm = () => {
 
   return (
     <Form>
-      <div className="mb-3">
-        <Label htmlFor="title">Title</Label>
+      <div className='mb-3'>
+        <Label htmlFor='title'>Title</Label>
         <Input
-          type="text"
-          className="form-control"
-          name="title"
+          type='text'
+          className='form-control'
+          name='title'
           value={title}
           onChange={handleInputChange} />
       </div>
-      <div className="mb-3">
-        <Label htmlFor="goal">Goal</Label>
+      <div className='mb-3'>
+        <Label htmlFor='goal'>Goal</Label>
         <Input
-          type="text"
-          className="form-control"
-          name="goal"
+          type='text'
+          className='form-control'
+          name='goal'
           value={goalValue}
           onChange={handleInputChange} />
       </div>
-      <div className="mb-3">
-        <Label htmlFor="actual">Actual</Label>
+      <div className='mb-3'>
+        <Label htmlFor='actual'>Actual</Label>
         <Input
-          type="text"
-          className="form-control"
-          name="goal"
+          type='text'
+          className='form-control'
+          name='goal'
           value={actualValue}
           onChange={handleInputChange} />
       </div>
       <Button
-        color="primary"
+        color='primary'
         onClick={handleAddExpense} >
         Add Expense
       </Button>
