@@ -1,17 +1,19 @@
 import NavBar from '../../components/NavBar'
+import Container from '@mui/material/Container'
 
 const Home = () => {
   return (
     <>
-      <NavBar></NavBar>
-      <h1>This is the Home Page</h1>
+      <Container>
+        <NavBar></NavBar>
+        <h1>This is the Home Page</h1>
+      </Container>
+
     </>
   )
 }
 
 export default Home
-
-
 
 
 
