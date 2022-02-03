@@ -27,7 +27,7 @@ Once the source code has been downloaded and the dependencies have been installe
 
 ## Credits:
 Creators: <br>
-<a href=”https://www.github.com/me0wmerz”>Rachel Hoelscher</a><br>
+<a href=”https://github.com/me0wmerz”>Rachel Hoelscher</a><br>
 <a href=”www.github.com/cmokbel1”>Claude Mokbel</a><br>
 <a href=”www.github.com/LohasOT”>Oliver Hoang</a><br>
 <a href=”www.github.com/pringle97”>Malia Pringle</a><br>
