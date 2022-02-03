@@ -28,6 +28,8 @@ Once the source code has been downloaded and the dependencies have been installe
 ## Credits:
 Creators: <br>
 [Rachel Hoelscher]('wwww.github.com/me0wmerz')<br>
+<a href="https://github.com/me0wmerz">Rachel Hoelscher</a>
+<a href="https://murmuring-temple-89016.herokuapp.com/login.html">Heroku</a>
 <a href="https://murmuring-temple-89016.herokuapp.com/login.html">Heroku</a>
 <a href=”https://github.com/me0wmerz”>Rachel Hoelscher</a><br>
 <a href=”www.github.com/cmokbel1”>Claude Mokbel</a><br>
