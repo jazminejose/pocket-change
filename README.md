@@ -18,9 +18,10 @@ Deployed Link:
 * [Questions](#questions)
 
 ## Installation
+`npm i` main folder and `cd client` folder and `npm` to get all necessary npm packages.
 
 Dependencies:
-`Mongoose`, `MUI`, `Express`, `Axios`, `React.js`, `Passport`, `dotenv`, 
+
 
 ## Usage
 
@@ -44,6 +45,7 @@ None
 This project is licensed under the MIT License.
 
 ## Technologies
+`Mongoose`, `MUI`, `Express`, `Axios`, `React.js`, `Passport`, `dotenv`
 
 ## Questions
 
