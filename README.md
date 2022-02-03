@@ -6,11 +6,11 @@
 Pocket Change is a budgeting app that helps users track their expenses on a month to month basis. The user will calculate their income for expenses by inputting their expendable income for the month and percentage that they would like to save for the month. The user will then create their expense report by inputting the category, the goal of how much they would like to spend and what their actual expense was. It will then generate a report. 
 
 Deployed Link: 
+
 <a href="https://pocket-changee.herokuapp.com/">Heroku</a><br>
-<img src="https://user-images.githubusercontent.com/91640571/152278371-86da6352-6cd6-489d-927e-ca93552cf7a7.png"/>>
+<img src="https://user-images.githubusercontent.com/91640571/152278371-86da6352-6cd6-489d-927e-ca93552cf7a7.png" width="50%"/>
 <img src="https://user-images.githubusercontent.com/91640571/152278428-72bb0894-fe29-42a4-bba2-16fb423f5cd3.png"/>
 <img src="https://user-images.githubusercontent.com/91640571/152278577-18796f2f-e3bf-413a-bb10-dead61d064b2.png"/>
-
 
 ## Table of Contents
 
