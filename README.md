@@ -24,7 +24,7 @@ Dependencies:
 
 ## Usage
 
-Once the source code has been downloaded and the dependencies have been installed, run 'npm start' to initialize the application. You will need to create a .env file and create the database.
+Once the source code has been downloaded and the dependencies have been installed, run `npm start` to initialize the application. You will need to create a .env file and create the database.
 
 ## Credits:
 Creators: <br>
