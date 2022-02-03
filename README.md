@@ -53,4 +53,4 @@ For any questions please contact:<br>
 <a href=”www.github.com/LohasOt”>Oliver Hoang</a><br>
 <a href=”www.github.com/pringle97”>Malia Pringle</a><br>
 <a href=”www.github.com/timduran”>Timothy Duran</a><br>
-<a href=”www.github.com/jazminejose”>Jazmine Jose</a>
+<a href=”www.github.com/jazminejose”>Jazmine Jose</a> 
