@@ -27,12 +27,11 @@ Once the source code has been downloaded and the dependencies have been installe
 
 ## Credits:
 Creators: <br>
-[Rachel Hoelscher]('wwww.github.com/me0wmerz')<br>
-<a href="https://github.com/me0wmerz">Rachel Hoelscher</a>
-<a href="https://guthub.com/cmokbel1">Claude Mokbel</a>
-<a href="https://github.com/LohasOT">Oliver Hoang</a>
-<a href="https://github.com/pringle97">Malia Pringle</a>
-<a href="https://github.com/timduran">Timothy Duran</a>
+<a href="https://github.com/me0wmerz">Rachel Hoelscher</a><br>
+<a href="https://github.com/cmokbel1">Claude Mokbel</a><br>
+<a href="https://github.com/LohasOT">Oliver Hoang</a><br>
+<a href="https://github.com/pringle97">Malia Pringle</a><br>
+<a href="https://github.com/timduran">Timothy Duran</a><br>
 <a href="https://github.com/jazminejose">Jazmine Jose</a>
 
 ## Contributing
@@ -48,9 +47,9 @@ This project is licensed under the MIT License.
 ## Questions
 
 For any questions please contact:<br>
-<a href=”https://github.com/me0wmerz”>Rachel Hoelscher</a><br>
-<a href=”www.github.com/cmokbel1”>Claude Mokbel</a><br>
-<a href=”www.github.com/LohasOt”>Oliver Hoang</a><br>
-<a href=”www.github.com/pringle97”>Malia Pringle</a><br>
-<a href=”www.github.com/timduran”>Timothy Duran</a><br>
-<a href=”www.github.com/jazminejose”>Jazmine Jose</a> 
+<a href="https://github.com/me0wmerz">Rachel Hoelscher</a><br>
+<a href="https://github.com/cmokbel1">Claude Mokbel</a><br>
+<a href="https://github.com/LohasOT">Oliver Hoang</a><br>
+<a href="https://github.com/pringle97">Malia Pringle</a><br>
+<a href="https://github.com/timduran">Timothy Duran</a><br>
+<a href="https://github.com/jazminejose">Jazmine Jose</a>
