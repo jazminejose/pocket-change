@@ -9,6 +9,7 @@ Deployed Link:<br>
 <a href=”https://pocket-changee.herokuapp.com/”>Heroku</a>
 
 <a href=”https://pocket-changee.herokuapp.com/”>Rachel Hoelscher</a><br>
+<a href=”www.github.com/timduran”>Timothy Duran</a><br>
 ## Table of Contents
 
 * [Installation](#installation)
