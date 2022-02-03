@@ -8,6 +8,7 @@ Pocket Change is a budgeting app that helps users track their expenses on a mont
 Deployed Link:<br>
 <a href=”https://pocket-changee.herokuapp.com/”>Heroku</a>
 
+<a href=”https://pocket-changee.herokuapp.com/”>Rachel Hoelscher</a><br>
 ## Table of Contents
 
 * [Installation](#installation)
