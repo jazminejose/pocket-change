@@ -47,7 +47,7 @@ This project is licensed under the MIT License.
 
 ## Questions
 
-For any questions please contact: 
+For any questions please contact:<br>
 <a href=”www.github.com/me0wmerz”>Rachel Hoelscher</a><br>
 <a href=”www.github.com/cmokbel1”>Claude Mokbel</a><br>
 <a href=”www.github.com/LohasOt”>Oliver Hoang</a><br>
